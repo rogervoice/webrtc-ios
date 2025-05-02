@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'WebRTC'
-    spec.version                  = '1.0.123'
+    spec.version                  = '1.0.136'
     spec.homepage                 = 'https://github.com/rogervoice/WebRTC'
     spec.source                   = { :git => 'git@github.com:rogervoice/webrtc-ios.git', :tag => "#{spec.version}" }
     spec.authors                  = { 'FX Beuvry' => 'francois-xavier@rogervoice.com', 'Alexandre Cools' => 'alexandre.cools@rogervoice.com'}
